@@ -1,4 +1,4 @@
-"# Parking Spot Detection 🚗🅿️
+"## Parking Spot Detection 🚗🅿️
 
 This project detects empty and occupied parking spots from a video using computer vision techniques.
 
